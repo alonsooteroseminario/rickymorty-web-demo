@@ -1,1 +1,1 @@
-# curso-spa
+# spa example
